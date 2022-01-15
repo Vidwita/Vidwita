@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vidwita
+- 👋 Hi, I’m @Vstars
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning MEAN stack
 - 💞️ I’m looking to collaborate on areas of Web Development
